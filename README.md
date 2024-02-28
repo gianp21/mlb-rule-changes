@@ -1,4 +1,4 @@
-## MLB Rule Changes and their Effects on the Game
+### MLB Rule Changes and their Effects on the Game
 
 As a former player and avid fan of baseball, I wanted to use my data analysis skills to dig into overall league and team stats over the last few years and determine if league-wide rule changes have had significant effects on the game as a whole.
 
